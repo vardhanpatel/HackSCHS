@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+
+}
+#particles-js
+{
+height:100%;
+background: #00000F
+
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 40%; bottom:60%; left: 0; right:0;
+    margin: auto;
+    color:#ffffff;
+    text-shadow: 0px 0px 300px #000;
+    font-size: 300%;
+}
+
+.btn {
+margin:auto;
+ border-radius: 9px;
+font-family: 'Oswald', sans-serif;
+color: #ffffff;
+font-size: 135%;
+padding: 10px 70px;
+border: 3px solid #ffffff;
+text-transform: uppercase;
+text-decoration: none;
+
+}
+.btn:hover {
+  color: #111111;
+   border-color: #111111;
+
+}
+.center {
+width: 232px;
+height: 270px;
+background-image: url("http://hackschs.com/wp-content/uploads/2017/03/149014337739826.png");
+position: absolute;
+top: 40%; bottom:90%; left: 0; right:0;
+margin: auto;
+
+}
+.code1 {
+width: 320px;
+height: 320px;
+background-image: url("https://image.ibb.co/fs1rZF/r_OKKHzm_M02m662_DGh_RWg_Gw_code_logo_640x640.png");
+position: absolute;
+top: 490%; bottom:90%; left: 45%; right:0;
+margin: auto;
+
+}
+.freestate {
+width: 500px;
+height: 200px;
+background-image: url("https://image.ibb.co/e1LhPF/imageedit_1_3690205466.png");
+position: absolute;
+top: 400%; bottom:90%; left: 55%; right:;
+margin: auto;
+
+}
+.microsoft {
+width: 563px;
+height: 180px;
+background-image: url("https://image.ibb.co/dUS9Mv/Microsoft_Logo_180x845.png");
+position: absolute;
+top: 400%; bottom:90%; left: 0; right:45%;
+margin: auto;
+
+}
+.peakenet {
+width: 320px;
+height: 320px;
+background-image: url("https://image.ibb.co/mRJG1v/imageedit_1_9147020868.png");
+position: absolute;
+top: 490%; bottom:90%; left: 0; right:45%;
+margin: auto;
+
+}
+.moreinfo {
+position: absolute;
+top: 135%; bottom:90%; left: 0; right:0;
+margin: auto;
+font-family: 'Raleway', sans-serif;
+color:#ffffff;
+text-shadow: 0px 0px 300px #000;
+font-size: 200%;
+}
+.btnclass{
+  position: absolute;
+  top: 90%; bottom:10%; left: 0; right:0;
+  text-align: center;
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+  color:#ffffff;
+
+
+
+
+}
+.subtext1 {
+position: absolute;
+top: 110%; bottom:0%; left: 0; right:0;
+margin: auto;
+font-family: 'Raleway', sans-serif;
+color:#ffffff;
+text-shadow: 0px 0px 300px #000;
+font-size: 200%;
+}
+
+.intro {
+
+width: 100%;
+height: 60%;
+background: #00000F
+
+
+}
+
+.sponsors {
+
+width: 100%;
+height: 80%;
+background: #00cccc
+font-family: 'Courier New', Courier;
+font-color:#ffffff;
+text-shadow: 0px 0px 300px #000;
+font-size: 500%;
+
+}
+.faq {
+  position: absolute;
+  top: 770%; bottom:100%; left: 0; right:0;
+  margin: auto;
+  width: 100%;
+  height: 210%;
+  background: #00000F;
+  font-family: 'Courier New', Courier;
+color:#ffffff;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 150%;
+
+}
+
+.Questions {
+  position: absolute;
+  top: 1100%; bottom:130%; left: 0; right:0;
+  margin: auto;
+  width: 100%;
+  height: 90%;
+  background: #0099ff;
+  font-family: 'Courier New', Courier;
+color:#ffffff;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 500%;
+
+}
+
+.emailbtn {
+margin:auto;
+ border-radius: 9px;
+font-family: 'Oswald', sans-serif;
+color: #ffffff;
+font-size: 55%;
+padding: 10px 50px;
+border: 3px solid #ffffff;
+text-transform: uppercase;
+text-decoration: none;
+
+}
+.emailbtn:hover {
+  color: #111111;
+   border-color: #111111;
+
+}
+h2{
+
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+left: 40%;
+  top: 100%;
+  color:#ffffff;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 300%;
+
+
+}
+h3{
+
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+left:25%;
+  top: 120%;
+  color:#ffffff;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 300%;
+
+
+
+}
+
+h4{
+
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  text-align: center;
+top: 50%;
+  color:#ffffff;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 300%;
+
+
+
+}
