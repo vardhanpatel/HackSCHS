@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html,body{
+
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+
+}
+#particles-js
+{
+height:100%;
+background: #00000F
+
+}
+
+.btn {
+    margin:auto;
+     border-radius: 9px;
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    font-size: 135%;
+    padding: 10px 70px;
+    border: 3px solid #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+display: inline;
+ appearence: none;
+    }
+    .Everything {
+    position: absolute;
+    top: 0%; bottom:0%; left: 0; right:0;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    color:#ffffff;
+    text-shadow: 0px 0px 300px #000;
+    font-size: 200%;
+    }
+    .btn:hover {
+      color: #111111;
+       border-color: #111111;
+
+    }
+    .emailbtn {
+    margin:auto;
+     border-radius: 9px;
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    font-size: 120%;
+    padding: 10px 50px;
+    border: 3px solid #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    }
+    .emailbtn:hover {
+      color: #111111;
+       border-color: #111111;
+
+    }
+    .faq {
+
+
+
+      background: #00000F;
+      font-family: 'Courier New', Courier;
+    color:#ffffff;
+      text-shadow: 0px 0px 300px #000;
+
+
+    }
+
+    .Questions {
+
+      background: #0099ff;
+      font-family: 'Courier New', Courier;
+    color:#ffffff;
+      text-shadow: 0px 0px 300px #000;
+
+
+    }
